@@ -1,4 +1,14 @@
-### Hi there 👋
+<h3 align="center">👋 Hi there! I'm Malachi.</h3>
+<p align="center">
+  <a href="https://malachiivey.com">Website</a> •
+  <a href="https://twitter.com/lauragift_">Twitter</a>
+</p>
+
+---
+✨ I'm a full stack engineer based in Atlanta, GA. I’m passionate about making the web accessible to everyone, becoming a better developer, and I'm also an advocate for building open-source projects. If you send me an interesting project I'll gladly take a look, maybe even contribute!
+
+- 💬 Ask me about: Python, Jamstack, and React.
+- 📫 Reach me via email: <iveyweb@gmail.com>
 
 <!--
 **zarekivey/zarekivey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
