@@ -5,9 +5,8 @@
 </p>
 
 ---
-✨ I'm a full stack engineer based in Atlanta, GA. I’m passionate about making the web accessible to everyone, becoming a better developer, and I'm also an advocate for building open-source projects. If you send me an interesting project I'll gladly take a look, maybe even contribute!
 
-- 💬 Ask me about: Python, Jamstack, and React.
+- 💬 Ask me about: Python, Numpy, and general data analysis.
 - 📫 Reach me via email: <iveyweb@gmail.com>
 
 <!--
