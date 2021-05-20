@@ -1,8 +1,4 @@
 <h3 align="center">👋 Hi there! I'm Malachi.</h3>
-<p align="center">
-  <a href="https://malachiivey.com">Website</a> •
-  <a href="https://twitter.com/lauragift_">Twitter</a>
-</p>
 
 ---
 
